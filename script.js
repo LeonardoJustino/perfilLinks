@@ -11,8 +11,5 @@ function toggleMode() {
       "alt",
       "Logo representativa"
     )
-  } else {
-    
-    img.setAttribute("src", "./assets/fotoDePerfil.png")
-  }
+    }
 }
