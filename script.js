@@ -11,5 +11,11 @@ function toggleMode() {
       "alt",
       "Logo representativa"
     )
+    }else{
+      img.setAttribute("src", "/assets/fotoDePerfil.png")
+    img.setAttribute(
+      "alt",
+      "Logo representativa"
+    )
     }
 }
